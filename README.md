@@ -1,6 +1,9 @@
 # GUPP
 
-GUPP is a Discord Nitro code generator that allows users to generate random gift codes and check their validity. If a valid code is found, it sends the code to a specified Discord webhook.
+![Menu](https://i.ibb.co/37J0Xy3/screenshots-1.png)
+
+
+## GUPP is a Discord Nitro code generator that allows users to generate random gift codes and check their validity. If a valid code is found, it sends the code to a specified Discord webhook.
 
 ## Features
 
