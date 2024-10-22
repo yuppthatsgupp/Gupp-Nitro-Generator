@@ -29,7 +29,7 @@ pip install requests pyfiglet colorama
 - Clone the repository:
 
 ```bash
-git clone https://github.com/yuppthatsgupp/gupp.git
+git clone https://github.com/yuppthatsgupp/Gupp-Nitro-Generator.git
 cd gupp
 ```
 - Run the script:
