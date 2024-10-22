@@ -37,7 +37,7 @@ cd gupp
 ```bash
 python gupp.py
 ```
-- Follow the on-screen instructions:
+Follow the on-screen instructions:
 
 Select "Start" to begin generating codes.
 Enter your Discord webhook URL to receive valid codes.
