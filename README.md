@@ -46,6 +46,11 @@ Choose options to open My Instagram page or exit.
 ## Disclaimer
 This tool is intended for educational purposes only. Please use responsibly and respect the terms of service of Discord.
 
+## Virus Concerns?
+- [VirusTotal](https://www.virustotal.com/gui/file/d2d01eeca29f56bd55e218f664e6efefa0552fe869965785b89fd6dcc7a4a879/detection)
+- [Malaware Bytes](https://www.malwarebytes.com/)
+- [Source](https://raw.githubusercontent.com/yuppthatsgupp/Gupp-Nitro-Generator/refs/heads/main/nitro.py)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
